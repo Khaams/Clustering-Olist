@@ -1,2 +1,3 @@
 # clustering-olist
- Clustering of clients from Olist
+
+ Clustering of clients from Olist dataset
